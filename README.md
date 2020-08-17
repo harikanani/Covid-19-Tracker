@@ -16,13 +16,13 @@ Covid-19 Tracker is Created With:
 # How To Use
 To use Covid-19 Tracker Application , 
     First Clone This Repository. 
-'''
+```
     $git clone https://github.com/harikanani/Covid-19-Tracker.git
-'''
+```
     Then Run this Code by Writting the Command
-'''
+```
     $flutter run 
-'''
+```
 
 # Credits :
 Created By : [Harikrushn Kanani] (https://github.com/harikanani/)
